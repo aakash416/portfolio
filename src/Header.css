@@ -1,0 +1,15 @@
+.header ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    background-color: #6060fb;
+    padding: 24px 8px;
+    font-size: 24px;
+    cursor: pointer;
+    color: #ffffff;
+}
+
+li {
+    color: #ffffff;
+
+}
