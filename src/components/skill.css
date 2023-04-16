@@ -1,0 +1,32 @@
+.skills {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    max-width: 600px;
+    margin-top: 20px;
+}
+
+.skill {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+}
+
+.skill>a {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    margin: 10px;
+    background-color: rgb(75, 75, 75);
+    font-size: 4rem;
+    transition: 0.2s;
+    cursor: pointer;
+}
+
+.skill>p {
+    color: #fff;
+}

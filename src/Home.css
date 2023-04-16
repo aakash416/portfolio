@@ -1,42 +1,66 @@
 .home {
     display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: #120f16;
+    height: 100vh;
 }
 
 .profile-data {
-    width: 50%;
+    width: 40%;
     display: flex;
     flex-direction: column;
-    align-items: center;
-    align-content: space-between;
     justify-content: center;
-
+    position: relative;
 
 }
+
+.profile-data h2 {
+    line-height: 50px;
+    font-weight: bold;
+    display: flex;
+    color: #e9e9e9;
+
+}
+
+.profile-data h1 {
+    font-size: 4rem;
+    line-height: 80px;
+    font-weight: bold;
+    color: #ffff;
+}
+
+.profile-data>p {
+    font-size: 1.2rem;
+    color: #cacaca;
+
+}
+
 
 .wave-hand {
     display: flex;
     align-items: center;
 }
 
-.profile-data p {
-    max-width: 500px;
-}
+.profile-data>p {}
+
 
 .wave-hand img {
     width: 50px;
 }
 
+.wave-hand>h2 {
+    font-size: 2rem;
+}
+
 .profile-img {
-    width: 50%;
+    width: 40%;
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 100px 0px;
-
 }
 
 .profile-img img {
     border-radius: 50%;
-
-    border: 4px solid #656874;
+    width: 350px;
 }

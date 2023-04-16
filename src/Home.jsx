@@ -8,10 +8,11 @@ function Home() {
             <div className="profile-data">
                 <div className='wave-hand'>
                     <img src={wavehand} alt="wave hand" />
-                    <p>Hey</p>
+                    <h2>Hey</h2>
                 </div>
-                <h2>Hi, Im Aakash</h2>
-                <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dignissimos sunt unde maiores illo labore ipsum, reprehenderit eos, minima veniam, officiis possimus nemo quo nihil provident. Dolorem repellat tempore nulla fuga. </p>
+                <h1>I'm Aakash</h1>
+                <h2 >I am a Full stack Development</h2>
+                <p> I focus on developing user-friendly web applications that meet the client's requirements, with attention to detail, scalability, and performance.</p>
             </div>
             <div className='profile-img'>
                 <img src={profile} alt="profile-pic" />

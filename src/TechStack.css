@@ -1,0 +1,38 @@
+.techstack {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #120f16;
+    height: 100vh;
+}
+
+.techstack>h2 {
+    color: #ffffff;
+    padding: 20px;
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    background-color: #212030;
+    padding: 5px;
+    border-radius: 10px;
+
+}
+
+.button button {
+    padding: 8px 24px;
+    border: none;
+    background-color: #6d28d9;
+    border-radius: 4px;
+    color: #ffffff;
+    cursor: pointer;
+    transition: 0.2s;
+    margin: 5px;
+
+}
+
+.button button:hover {
+    background-color: #212030;
+
+}
