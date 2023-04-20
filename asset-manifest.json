@@ -1,18 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.42d89f23.css",
-    "main.js": "/portfolio/static/js/main.1ede127f.js",
+    "main.css": "/portfolio/static/css/main.d231c394.css",
+    "main.js": "/portfolio/static/js/main.1da6d589.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/starkidsnepal.png": "/portfolio/static/media/starkidsnepal.aaa21905ffeda4004ce3.png",
+    "static/media/Rebel_Foods.png": "/portfolio/static/media/Rebel_Foods.b8947c398e56298d6645.png",
     "static/media/404-error.gif": "/portfolio/static/media/404-error.79d4143169438a957233.gif",
     "static/media/wave hand.gif": "/portfolio/static/media/wave hand.a720748e68c94f8795e8.gif",
+    "static/media/Flipkart.png": "/portfolio/static/media/Flipkart.da6e5642802ddca90581.png",
+    "static/media/weather.png": "/portfolio/static/media/weather.bc3fc645af485031c25f.png",
+    "static/media/calculator.png": "/portfolio/static/media/calculator.5c379f0caa7cf85a30ab.png",
+    "static/media/E-Commerce-Website.png": "/portfolio/static/media/E-Commerce-Website.0e6175525839d1c84e17.png",
     "static/media/profile-pic.jpg": "/portfolio/static/media/profile-pic.1fcabd4e7ee96c1c97d2.jpg",
     "index.html": "/portfolio/index.html",
-    "main.42d89f23.css.map": "/portfolio/static/css/main.42d89f23.css.map",
-    "main.1ede127f.js.map": "/portfolio/static/js/main.1ede127f.js.map",
+    "main.d231c394.css.map": "/portfolio/static/css/main.d231c394.css.map",
+    "main.1da6d589.js.map": "/portfolio/static/js/main.1da6d589.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.42d89f23.css",
-    "static/js/main.1ede127f.js"
+    "static/css/main.d231c394.css",
+    "static/js/main.1da6d589.js"
   ]
 }
